@@ -1,0 +1,3 @@
+python is a object oriented langauge which is dynamic alloatcated memeory store as a data.
+and it is also enterpreted langauge.
+
